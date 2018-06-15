@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+mark{
+    background: #E0F9FF;
+    color: black;
+}
